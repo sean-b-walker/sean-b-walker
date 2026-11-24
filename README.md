@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
+  
+# Hey, I'm Sean 👋
 
-<!--
-**sean-b-walker/sean-b-walker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  
+Cybersecurity Engineer · Professional Phisherman · Linux Nerd · AI Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I break a lot of things, fix some, and automate what I can.
+
+</div>
+
+---
+# 🧭 At a glance
